@@ -1,0 +1,4 @@
+To Compile & Run:-
+
+javac -cp ".;mysql-connector-java-8.xx.xx.jar" src/*.java
+java -cp ".;mysql-connector-java-8.xx.xx.jar;src" src.QuizMain
